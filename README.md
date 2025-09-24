@@ -67,7 +67,7 @@ Os cenários estão configurados com tags no arquivo .feature (exemplo: @CT-11, 
 
 - Para visualizar o relatório:
 
-        Abra o arquivo index.html contido nesta pasta no seu navegador.
+  Abra o arquivo index.html contido nesta pasta no seu navegador.
 
 - O relatório exibirá:
 
