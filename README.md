@@ -77,16 +77,9 @@ Os cenários estão configurados com tags no arquivo .feature (exemplo: @CT-11, 
 
 💡 Dica: você pode abrir o relatório clicando duas vezes no arquivo index.html ou utilizando o comando do seu sistema operacional:
 
-Windows: start cypress/reports/html/index.html
-
-Mac: open cypress/reports/html/index.html
-
-Linux: xdg-open cypress/reports/html/index.html
-
-
-do projeto e dependências
-└── README.md # Documentação do projeto
-
+- Windows: start cypress/reports/html/index.html
+- Mac: open cypress/reports/html/index.html
+- Linux: xdg-open cypress/reports/html/index.html
 
 5. 🛠️ Tecnologias utilizadas
 
