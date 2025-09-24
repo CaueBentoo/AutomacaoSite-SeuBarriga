@@ -15,7 +15,9 @@ Este repositório contém a automação de testes do sistema [Seu Barriga](http:
 
 1. Clone este repositório:
 
-No terminal coloque: git clone https://github.com/CaueBentoo/AutomacaoSite-SeuBarriga.git
+- No terminal coloque: git clone https://github.com/CaueBentoo/AutomacaoSite-SeuBarriga.git
+- Entre na pasta: "cd AutomacaoSite-SeuBarriga"
+- Em seguida digite: "code ."
 
 2. 📦 Instalação de dependências
 
