@@ -84,47 +84,11 @@ Mac: open cypress/reports/html/index.html
 Linux: xdg-open cypress/reports/html/index.html
 
 
-5. 📂 Estrutura do projeto
-
-A seguir, uma visão geral das principais pastas e arquivos:
-
-Automatizados - Grupo Adriano Cobuccio
-├── cypress
-│ ├── downloads # Pasta utilizada pelo Cypress para armazenar arquivos baixados durante os testes
-│ ├── e2e
-│ │ ├── features # Contém os arquivos .feature escritos em Gherkin (cenários de teste)
-│ │ │ ├── cadastroUsuarios.feature
-│ │ │ ├── contas.feature
-│ │ │ ├── login.feature
-│ │ │ ├── logout.feature
-│ │ │ ├── movimentacoes.feature
-│ │ │ └── resumo.feature
-│ │ ├── step_definitions # Contém os arquivos .js que implementam os passos dos cenários (Given, When, Then)
-│ │ │ ├── cadastroUsuarios.js
-│ │ │ ├── contas.js
-│ │ │ ├── login.js
-│ │ │ ├── logout.js
-│ │ │ ├── movimentacoes.js
-│ │ │ └── resumo.js
-│ ├── fixtures # Arquivos de massa de dados para os testes
-│ │ └── usuarioValido.json
-│ ├── reports
-│ │ └── html # Relatórios gerados após a execução dos testes
-│ │ └── index.html
-│ └── support
-│ ├── commands # Funções personalizadas para reutilização nos testes
-│ │ ├── contas.js
-│ │ ├── login.js
-│ │ └── movimentacoes.js
-│ └── e2e.js # Arquivo de suporte principal carregado antes da execução dos testes
-├── node_modules # Dependências do projeto instaladas pelo npm ou yarn
-├── cypress.config.js # Arquivo de configuração do Cypress
-├── package-lock.json # Controle de versão exata das dependências instaladas
-├── package.json # Arquivo de configuração do projeto e dependências
+do projeto e dependências
 └── README.md # Documentação do projeto
 
 
-6. 🛠️ Tecnologias utilizadas
+5. 🛠️ Tecnologias utilizadas
 
 Cypress
  - Framework de testes E2E
@@ -139,7 +103,7 @@ Mochawesome
  - Relatórios de execução
 
 
-7. ✅ Observações importantes
+6. ✅ Observações importantes
 
 - Cada conta criada nos testes é gerada dinamicamente para evitar conflitos.
 - Os cenários foram organizados para manter clareza entre Given / When / Then, seguindo boas práticas do BDD.
