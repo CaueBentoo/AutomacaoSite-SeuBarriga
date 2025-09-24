@@ -101,4 +101,4 @@ Mochawesome
 - Cada conta criada nos testes é gerada dinamicamente para evitar conflitos.
 - Os cenários foram organizados para manter clareza entre Given / When / Then, seguindo boas práticas do BDD.
 - É possível criar novos comandos dentro de cypress/support/commands para manter os step definitions mais limpos.
-- Observação o gráfico de linguagens do GitHub pode indicar que o projeto é majoritariamente HTML. Isso acontece porque arquivos .feature (Gherkin) e .html são mais numerosos, mesmo que a maior parte da lógica esteja em JavaScript. Portanto, a contagem de linhas não reflete exatamente a composição real do código.
+- O gráfico de linguagens do GitHub pode indicar que o projeto é majoritariamente HTML, isso acontece porque arquivos .feature (Gherkin) e .html são mais numerosos, mesmo que a maior parte da lógica esteja em JavaScript. Portanto, a contagem de linhas não reflete exatamente a composição real do código.
