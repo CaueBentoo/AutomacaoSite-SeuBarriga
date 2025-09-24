@@ -22,11 +22,11 @@ No terminal coloque: git clone https://github.com/CaueBentoo/AutomacaoSite-SeuBa
 Antes de rodar os testes, instale as dependências do projeto.  
 Você pode escolher entre **npm** ou **yarn**:
 
-# Usando npm
-npm install
+Usando npm:
+- npm install
 
-# Usando yarn
-yarn install
+Usando yarn:
+- yarn install
 
 3. ▶️ Executando os testes
 
