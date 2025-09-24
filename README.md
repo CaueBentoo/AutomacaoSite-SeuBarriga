@@ -36,16 +36,16 @@ No terminal:
 
 - Primeira forma: Rodar todos os testes de uma vez (modo headless): 
 
-npx cypress run 
+"npx cypress run" 
  ou 
-yarn cypress run
+"yarn cypress run"
 
 
 - Segunda forma: Abrir a interface interativa do Cypress: 
 
-npx cypress open
+"npx cypress open"
  ou 
-yarn cypress open 
+"yarn cypress open" 
 
 (Os comandos acima abrirão o Cypress Test Runner, onde você pode escolher qual cenário ou feature executar).
 
@@ -56,9 +56,9 @@ Os cenários estão configurados com tags no arquivo .feature (exemplo: @CT-11, 
 
 - Você pode executar apenas um cenário específico usando a flag --env tags:
 
-npx cypress run --env tags=@CT-13
+"npx cypress run --env tags=@CT-13"
  ou
-yarn cypress run --env tags=@CT-13
+"yarn cypress run --env tags=@CT-13"
 
 
 4. 📝 Visualizando o relatório de testes
