@@ -1,6 +1,6 @@
 # Testes Automatizados - Seu Barriga
 
-Este repositório contém a automação de testes do sistema [Seu Barriga](http://seubarriga.wcaquino.me/), desenvolvida em **Cypress** utilizando o padrão **BDD (Behavior Driven Development)** com o **Cucumber Preprocessor**.
+Este repositório contém a automação de testes do sistema [Seu Barriga](http://seubarriga.wcaquino.me/), desenvolvido em **Cypress** utilizando o padrão **BDD (Behavior Driven Development)** com o **Cucumber Preprocessor**.
 
 ---
 
